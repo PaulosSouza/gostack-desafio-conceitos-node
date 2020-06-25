@@ -1,0 +1,12 @@
+# Desafio Conceitos de NodeJS
+
+## O que aprendi?
+Neste desafio conseguir entender com clareza a utilização do framework expressJS, compreendendo os seus funcionamentos e suas particularidades, além de ver e entender mais sobre o funcionamento de middlewares que antes era nebuloso na minha mente.
+
+## Tecnologias utilizadas
+*  NodeJS
+
+
+## Para executar
+1. Baixe as depedências utilizando npm install ou yarn install
+2.  Depois só rodar yarn dev ou npm run dev
